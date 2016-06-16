@@ -6,9 +6,9 @@
     "email": "sin8@hawaii.edu",
     "phone": "",
     "website": "https://sergey-negrashov.github.io",
-    "summary": "I am working on the PHD in ICS. My interests are in sensor networks",
+    "summary": "I am working on the PHD in ICS. My interests are in sensor networks, distributed measurements, and smart grid technologies.",
     "location": {
-      "address": "1680 E West Rd Honolulu, HI 96822 #329",
+      "address": "1680 E West Rd Honolulu, HI 96822  Room 329",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "sergey-negrashov",
+        "url": "http://github.com/sergey-negrashov"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "sergey-negrashov",
+        "url": "http://linkedin.com/in/sergey-negrashov"
       }
     ]
   },
