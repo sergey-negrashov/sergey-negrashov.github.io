@@ -6,7 +6,7 @@
     "email": "sin8@hawaii.edu",
     "phone": "",
     "website": "https://sergey-negrashov.github.io",
-    "summary": "I am working on the PHD in ICS. My interests are in sensor networks, distributed measurements, and smart grid technologies.",
+    "summary": "I am working on the PHD in ICS. My interests are in experimental particle physics, sensor networks, distributed measurements, and smart grid technologies.",
     "location": {
       "address": "1680 E West Rd Honolulu, HI 96822  Room 329",
       "postalCode": "96822",
@@ -23,25 +23,26 @@
       {
         "network": "linkedin",
         "username": "sergey-negrashov",
-        "url": "http://linkedin.com/in/sergey-negrashov"
+        "url": "http://linkedin.com/in/sergey-negrashov-6b07458a"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Experimental Particle Physics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "MiniTime-cube",
+        "Neutrino imaging"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Power Quality",
       "keywords": [
+        "Open Power Quality"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Sensor network",
       "keywords": [
       ]
     }
@@ -51,37 +52,68 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C/C++",
         "Java",
-        "Javascript",
+        "Rust",
         "Assembly",
-        "Common Lisp"
+        "Verilog"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux",
+        "Xilinx Toolset",
+        "Mentor Graphics PADs",
+        "Matlab"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Minnesota, Minneapolis, MN",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2005-09-01",
+      "endDate": "2010-01-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+
+    {
+      "institution": "University of Minnesota, Minneapolis, MN",
+      "area": "Physics",
+      "studyType": "B.S.",
+      "startDate": "2005-09-01",
+      "endDate": "2010-01-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2010-01-01",
+      "endDate": "2015-01-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+   {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "P.H.D.",
+      "startDate": "2015-01-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
     }
+    
   ],
   "work": [
     {
