@@ -29,19 +29,18 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Power Quality",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Open Power Quality"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Particle Physics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Sensor Networks",
       "keywords": [
       ]
     }
@@ -51,23 +50,23 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C/C++",
         "Java",
-        "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Rust",
+        "Verilog",
+        "Python",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux",
+        "XILINX",
+        "Mentor Graphics Pads",
+        "STM32",
+        "Matlab"
       ]
     }
   ],
@@ -94,7 +93,7 @@
       "highlights": [
         "Design and develop electronics for a ultaportable directional neutrino detector.",
         "Lead a team during the detector calibration and deployment at the NIST Center for Neutron Research Reactor.",
-        "Developed FPGA firmware and Linux software for detector operation, and data analisys"
+        "Developed FPGA firmware and Linux software for detector operation, and data analysis"
       ]
     },
     {
@@ -105,8 +104,8 @@
       "endDate": "Current",
       "summary": "Teaching the lab section of ICS111 and ICS 331",
       "highlights": [
-        "Development of class curiculum.",
-        "Academinc evaluation"
+        "Development of class curriculum.",
+        "Academic evaluation"
       ]
     }
   ],
@@ -117,13 +116,12 @@
       "position": "Speaker",
       "startDate": "2015-01-01",
       "endDate": "Present",
-      "summary": "Teaching 8-6 Grade Girls how to program in javascript and turtle.",
+      "summary": "Teaching 6th-8th graders how to program in Javascript and Logo.",
       "highlights": [
       ]
     }
   ],
   "awards": [
-    
   ],
   "references": [
     {
