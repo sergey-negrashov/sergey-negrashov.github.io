@@ -6,7 +6,7 @@
     "email": "sin8@hawaii.edu",
     "phone": "",
     "website": "https://sergey-negrashov.github.io",
-    "summary": "I am working on the PHD in ICS. My interests are in experimental particle physics, sensor networks, distributed measurements, and smart grid technologies.",
+    "summary": "I am working on the PHD in ICS. My interests are in sensor networks, distributed measurements, and smart grid technologies.",
     "location": {
       "address": "1680 E West Rd Honolulu, HI 96822  Room 329",
       "postalCode": "96822",
@@ -23,26 +23,25 @@
       {
         "network": "linkedin",
         "username": "sergey-negrashov",
-        "url": "http://linkedin.com/in/sergey-negrashov-6b07458a"
+        "url": "http://linkedin.com/in/sergey-negrashov"
       }
     ]
   },
   "interests": [
     {
-      "name": "Experimental Particle Physics",
+      "name": "internet of things",
       "keywords": [
-        "MiniTime-cube",
-        "Neutrino imaging"
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "Power Quality",
+      "name": "data mining",
       "keywords": [
-        "Open Power Quality"
       ]
     },
     {
-      "name": "Sensor network",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -52,135 +51,79 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C/C++",
+        "C",
+        "C++",
         "Java",
-        "Rust",
+        "Javascript",
         "Assembly",
-        "Verilog"
+        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Linux",
-        "Xilinx Toolset",
-        "Mentor Graphics PADs",
-        "Matlab"
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Minnesota, Minneapolis, MN",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2005-09-01",
-      "endDate": "2010-01-01",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-
-    {
-      "institution": "University of Minnesota, Minneapolis, MN",
-      "area": "Physics",
-      "studyType": "B.S.",
-      "startDate": "2005-09-01",
-      "endDate": "2010-01-01",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    
-    {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2010-01-01",
-      "endDate": "2015-01-01",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-   {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "P.H.D.",
-      "startDate": "2015-01-01",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
     }
-    
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Physics Department",
+      "position": "Researcher",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2011-09-01",
+      "endDate": "2016-01-01",
+      "summary": "Hardware RND for a particle physics experement.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Design and develop electronics for a ultaportable directional neutrino detector.",
+        "Lead a team during the detector calibration and deployment at the NIST Center for Neutron Research Reactor."
+        "Developed FPGA firmware and Linux software for detector operation, and data analisys"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Information and Computer Science",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2016-01-01",
+      "endDate": "Current",
+      "summary": "Teaching the lab section of ICS111 and ICS 331",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Development of class curiculum.",
+        "Academinc evaluation"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Expanding your Horizons Hawaii",
+      "website": "http://www.eyhhawaii.org/",
+      "position": "Speaker",
+      "startDate": "2015-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Teaching 8-6 Grade Girls how to program in javascript and turtle.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+    
   ],
   "references": [
     {
