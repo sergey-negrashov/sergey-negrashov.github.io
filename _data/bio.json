@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "name": "Sergey Negrashov",
+    "label": "Graduate Student",
+    "picture": "https://techfolios.github.io/template/images/serge.jpg",
+    "email": "sin8@hawaii.edu",
+    "phone": "",
+    "website": "https://sergey-negrashov.github.io",
+    "summary": "I am working on the PHD in ICS. My interests are in sensor networks",
     "location": {
-      "address": "",
+      "address": "1680 E West Rd Honolulu, HI 96822 #329",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
