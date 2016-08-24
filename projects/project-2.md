@@ -2,24 +2,22 @@
 layout: project
 type: project
 published: true
-image: images/vacay-square.png
-title: Vacay
+image: images/mtc.png
+title: miniTimeCube
 permalink: projects/vacay
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+    -HEP
+    -FPGA
+    -ASIC
+    -
+summary: A "portable" neutrino detector and neutron camera for basic research and non-proliferation applications.
 ---
 
-<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/mtc.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The miniTimeCube (mTC) is a novel compact multipurpose detector of elementary particles, aiming to detect not only neutrinos but also fast/thermal neutrons. Potential applications include the counterproliferation of nuclear materials and the investigation of antineutrino short-baseline effects. The mTC is a plastic 0.2% 10B-doped scintillator (13 cm)^3 cube surrounded by 24 Micro-Channel Plate (MCP) photon detectors, each with an 8x8 anode totaling 1536 individual channels/pixels viewing the scintillator. It uses custom-made electronics modules which mount on top of the MCPs, making our detector compact and able to both distinguish different types of events and reject noise in real time. The detector is currently deployed and being tested at the National Institute of Standards and Technology Center for Neutron Research nuclear reactor (20 MWth) in Gaithersburg MD. A shield for further tests is being constructed, and calibration and upgrades are ongoing. The mTC's improved spatiotemporal resolution will allow for determination of incident particle directions beyond previous capabilities.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In this project I developed electronics and fpga firmware which make up most of the detector. I designed the ADC carriers, calibration system, clock distribution, triggering system, and environmental monitoring. Furthermore I lead the field team during the detector deployment at the NIST thermal column and calibration facilities, managed software development team and mentored new employees. Finally I developed the toolkit for data handling and data analysis.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon "></i>theVacay/vacay</a>
+You can learn more at the [miniTimeCube](http://www.phys.hawaii.edu/~mtc).
