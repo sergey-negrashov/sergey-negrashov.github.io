@@ -2,17 +2,18 @@
 layout: project
 type: project
 published: true
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/geiger.jpg
+title: Cosmic Ray Telescope
+permalink: projects/Geiger
+date: 2016
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - PCB Mill
+  - HEP
+  - IOT
+summary: A muon telescope based on four Soviet STS-5 geiger tubes.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/geiger.jpgg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
