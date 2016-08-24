@@ -10,7 +10,7 @@ labels:
   - Sensor Network
   - Embedded Systems
   - Real-time
-summary: This project aims to develop a power quality monitoring  network in order to monitor power grid health across the Hawaiian islands
+summary: We aim to develop a power quality monitoring network and deploy it across the Hawaiian islands
 ---
 
 <img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/opq.jpg">
