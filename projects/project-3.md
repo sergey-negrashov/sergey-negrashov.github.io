@@ -13,50 +13,12 @@ labels:
 summary: A muon telescope based on four Soviet STS-5 geiger tubes.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/geiger.jpgg">
+<img class="ui image" src="{{ site.baseurl }}/images/geiger.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This is my personal project which embodies my fascination with High energy particle physics. I guess I am always drawn to the fundamentals, and there is nothing more fundamental then Nature. I spent a few years working on a neutrino physics experiments, but most of my effort was spent on FPGA and PCB work. I always wanted to make a particle physics measurement outside of work, and now thanks to a handful of cold war relics, I can. Geiger tube are among the oldest radiation detectors out there, and are still in use today. Old Soviet tubes in particular are easily acquired from your favorite online flea market. After a few decades of laying in a dusty civil defense warehouse, these devices are now trickling down to makers around the world.
 
-To give you a flavor of the game, here is an excerpt from one run:
+For this project I designed and built a cosmic ray telescope which operates based on a coincidence principle. Terrestrial radiation in most places around the world, is mainly low energy "stuff". Barely enough to trigger a Geiger tube. Cosmic ray muons however, have more then enough energy to trigger multiple Geiger tubes. By looking at the coincidental signals across an array of geiger tubes I was able to create a device which essentially filters out terrestrial radiation, while providing some angular measurement for the cosmic rays it detects. 
 
-<hr>
+This device is built almost entirely out of discrete components, and all of the PCBs were milled on my CNC mill. The only components which contain integrated circuits are the wallwart PSU and an ESP8266 wifi enabled MCU. ESP8266 allowed me to debug operate the device without having to attach it to a computer. Next iteration will have 8 tubes on a CNC pivotable enclosure for better angular resolution.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+You can read about the development on my : <a href="http://bitsandwires.hopto.org/tag/geiger/">blog</a>.
