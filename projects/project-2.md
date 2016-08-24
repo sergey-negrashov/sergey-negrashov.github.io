@@ -5,7 +5,7 @@ published: true
 image: images/mtc.png
 title: miniTimeCube
 permalink: projects/vacay
-date: 2015
+date: 2012
 labels:
     -HEP
     -FPGA
