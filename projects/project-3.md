@@ -13,7 +13,7 @@ labels:
 summary: A muon telescope based on four Soviet STS-5 geiger tubes.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/geiger.jpg">
+<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/geiger.jpg">
 
 This is my personal project which embodies my fascination with High energy particle physics. I guess I am always drawn to the fundamentals, and there is nothing more fundamental then Nature. I spent a few years working on a neutrino physics experiments, but most of my effort was spent on FPGA and PCB work. I always wanted to make a particle physics measurement outside of work, and now thanks to a handful of cold war relics, I can. Geiger tube are among the oldest radiation detectors out there, and are still in use today. Old Soviet tubes in particular are easily acquired from your favorite online flea market. After a few decades of laying in a dusty civil defense warehouse, these devices are now trickling down to makers around the world.
 
