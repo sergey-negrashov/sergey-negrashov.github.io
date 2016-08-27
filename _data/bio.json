@@ -73,10 +73,40 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "area": "Computer Science",
+      "studyType": "PHD",
       "startDate": "2013-09-01",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2011-09-01",
+      "endDate": "2013-09-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Minnesota, Minneapolis, MN",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Minnesota, Minneapolis, MN",
+      "area": "Physics",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "",
       "gpa": "",
       "courses": [
       ]
@@ -117,6 +147,26 @@
       "startDate": "2015-01-01",
       "endDate": "Present",
       "summary": "Teaching 6th-8th graders how to program in Javascript and Logo.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "GSO Grant Review Committee",
+      "website": "http://gso.hawaii.edu/",
+      "position": "Grant Review",
+      "startDate": "2016-05-01",
+      "endDate": "Present",
+      "summary": "Graduate student funding and grant review.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "FCC Technician License ",
+      "website": "",
+      "position": "Grant Review",
+      "startDate": "2016-05-01",
+      "endDate": "Present",
+      "summary": "Amateur radio technician license.",
       "highlights": [
       ]
     }
