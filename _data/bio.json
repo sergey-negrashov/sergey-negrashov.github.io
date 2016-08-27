@@ -96,7 +96,7 @@
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2010-01-01",
-      "endDate": "2016-01-01",
+      "endDate": "2006-01-01",
       "gpa": "",
       "courses": [
       ]
@@ -106,7 +106,7 @@
       "area": "Physics",
       "studyType": "B.S.",
       "startDate": "2010-01-01",
-      "endDate": "2016-01-01",
+      "endDate": "2006-01-01",
       "gpa": "",
       "courses": [
       ]
@@ -170,8 +170,6 @@
       "highlights": [
       ]
     }
-  ],
-  "awards": [
   ],
   "references": [
     {
