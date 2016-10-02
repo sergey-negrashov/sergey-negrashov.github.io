@@ -6,6 +6,9 @@ date: 2016-08-31
 labels:
   - PhD Portfolio
 ---
+
+*This page presents evidence of my scholarly ability in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence of ability to identify, critically analyze, and research a problem, as well as written communication skills.*
+
 #### Literature Review
 TODO.
 
