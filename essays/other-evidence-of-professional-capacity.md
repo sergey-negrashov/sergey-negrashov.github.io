@@ -7,6 +7,8 @@ labels:
   - PhD Portfolio
 ---
 
+*This page presents other evidence of my professional capacity in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes all forms of research, teaching, and service to the community and discipline, including professional vita of employment, professional presentations, reviewing of papers for conferences and journals, competitive fellowships or other external funding awards, patents, teaching, service on committees or as graduate student representatives, and letters of reference.*
+
 #### Teaching Assistant
 **ICS 111 - 1 semesters**
 **ICS 331 - 1 semesters**
