@@ -36,9 +36,9 @@ This work is inspired in part by the High Energy Physics data acquisition system
 1. *A Framework for Real Time Processing of Sensor Data in the Cloud.* Supun Kamburugamuve, Leif Christiansen, and Geoffrey Fox. Journal of Sensors, 2015.
 2. *Monitoring Volcanic Eruptions with a Wireless Sensor Network.* G. Werner-Allen J. Johnson M. Ruiz. IEEE Wireless sensor networks, 2005.
 3. *Smart Grid Privacy via Anonymization of Smart Metering Data.* Costas Efthymiou, Georgios Kalogridis. IEEE SmartGridCom, 2010
-4. *The Noise we make* "http://bitsandwires.hopto.org/the-noise-we-make/, 2016
+4. *The Noise we make* [bits and wires](http://bitsandwires.hopto.org/the-noise-we-make/), 2016
 5. *The large analog bandwidth recorder and digitizer with ordered readout (LABRADOR) ASIC* G.S. Varnera, L.L. Ruckmana, J.W. Namb, R.J. Nicholc, J. Caod, P.W. Gorhama, M. Wilcoxe. Nuclear Instrument Menthods AIP, 2007
-6. *Explosive Internet of Things Spending to Reach $1.7 Trillion in 2020, According to IDC.* IDC, 2015 
+6. *Explosive Internet of Things Spending to Reach $1.7 Trillion in 2020* IDC, 2015 
 7. *Internet of Things: Wireless Sensor Networks.* IEC report, 2014
 8. *CityPulse: Large Scale Data Analytics Framework for Smart Cities.* Dan Puiu, Payam Barnaghi, Ralf Tönjes, Daniel Kümper, Muhammad Intizar Ali, Alessandra Mileo, Josiane Xavier Parreira, Marten Fischer, Sefki Kolozali, Nazli Farajidavar, Feng Gao, Thorben Iggena, Thu-Le Pham, Cosmin-Septimiu Nechifor, Daniel Puschmann, Joao Fernandes, IEEE Access Journal, 2016.
 
