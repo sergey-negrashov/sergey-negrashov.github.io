@@ -5,10 +5,10 @@
   <meta name="mobile-web-app-capable" content="yes">
 
   <title>
-    {% if page.title %}
-      {{ page.title }} |
-    {% endif %}
-    {{ site.title }}
+	{% if page.title %}
+	  {{ page.title }} |
+	{% endif %}
+	{{ site.title }}
   </title>
 
   <!-- Load Javascript and CSS for Semantic UI -->
@@ -18,16 +18,16 @@
 
   <!-- Load Techfolio CSS customizations -->
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/stylesheet-default.css">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/stylesheet-customizations.css">
-
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/stylesheet-customizations.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/print-default.css" media="print">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/print-customizations.css" media="print">
 
   <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
   {% if site.mathjax %}
   <script type="text/javascript"
-          src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+		  src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   {% endif %}
-
-
+  {% if page.url == "/"%}
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/stylesheet-front.css">
+	{% endif %}
 </head>

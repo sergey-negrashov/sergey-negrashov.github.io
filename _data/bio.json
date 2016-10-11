@@ -6,7 +6,7 @@
     "email": "sin8@hawaii.edu",
     "phone": "",
     "website": "https://sergey-negrashov.github.io",
-    "summary": "I am working on the PHD in ICS. My interests are in sensor networks, distributed measurements, and smart grid technologies.",
+    "summary": "I am working on the PHD in Information and Computer Science at the University of Hawaii at Manoa. My research is in scalable IP sensor networks. I hope to graduate in 2017.",
     "location": {
       "address": "1680 E West Rd Honolulu, HI 96822  Room 329",
       "postalCode": "96822",
@@ -92,7 +92,15 @@
     "endDate": "Present",
     "summary": "Teaching the lab section of ICS111 and ICS 331",
     "highlights": ["Development of class curriculum.", "Academic evaluation"]
-  }],
+  }, {
+    "company": "University of Hawaii graduate student organisation",
+    "website": "http://gso.hawaii.edu/",
+    "position": "Employment and Compensation Chair",
+    "startDate": "2016-05-01",
+    "endDate": "Present",
+    "summary": "Working with UH administration to improve the working conditions for UH graduate students.",
+    "highlights": []
+  } ],
   "volunteer": [{
     "organization": "Expanding your Horizons Hawaii",
     "website": "http://www.eyhhawaii.org/",
@@ -102,7 +110,7 @@
     "summary": "Teaching 6th-8th graders how to program in Javascript and Logo.",
     "highlights": []
   }, {
-    "organization": "GSO Grant Review Committee",
+    "organization": "GSO Grants and Awards Committee",
     "website": "http://gso.hawaii.edu/",
     "position": "Grant Review",
     "startDate": "2016-05-01",
