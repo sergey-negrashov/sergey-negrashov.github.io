@@ -1,0 +1,12 @@
+---
+# Provide front matter so Jekyll processes this file as SASS.
+---
+@charset "utf-8";
+
+body {
+   background-image: url("{{ site.baseurl }}/images/background.jpg");
+   background-size: auto 100%;
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-attachment: fixed;
+}
