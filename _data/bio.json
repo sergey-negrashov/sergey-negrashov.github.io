@@ -82,7 +82,7 @@
     "website": "",
     "startDate": "2011-09-01",
     "endDate": "2016-01-01",
-    "summary": "Hardware RND for a particle physics experement.",
+    "summary": "Hardware R&D for a particle physics experement.",
     "highlights": ["Design and develop electronics for a ultaportable directional neutrino detector.", "Lead a team during the detector calibration and deployment at the NIST Center for Neutron Research Reactor.", "Developed FPGA firmware and Linux software for detector operation, and data analysis"]
   }, {
     "company": "UH Manoa Information and Computer Science",
@@ -111,7 +111,6 @@
     "highlights": []
   }, {
     "organization": "GSO Grants and Awards Committee",
-    "website": "http://gso.hawaii.edu/",
     "position": "Grant Review",
     "startDate": "2016-05-01",
     "endDate": "Present",
