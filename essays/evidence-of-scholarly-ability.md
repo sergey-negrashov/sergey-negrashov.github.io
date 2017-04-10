@@ -10,7 +10,9 @@ labels:
 *This page presents evidence of my scholarly ability in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence of ability to identify, critically analyze, and research a problem, as well as written communication skills.*
 
 ## Literature Review:
-TODO.
+My literature review focuses on uses of compression and
+compressed sensing in bandwidth constrained sensor networks.
+[Link](http://csdl.ics.hawaii.edu/techreports/2016/16-02/16-02.pdf)
 
 ## Publications:
 
@@ -45,7 +47,22 @@ AIP Review of Scientific Instruments, May 2016.
 
 **Abstract**
 
-We present the development of the miniTimeCube (mTC), a novel compact neutrino detector. The mTC is a multipurpose detector, aiming to detect not only neutrinos but also fast/thermal neutrons. Potential applications include the counterproliferation of nuclear materials and the investigation of antineutrino short-baseline effects. The mTC is a plastic 0.2% 10B - doped scintillator (13 cm)3 cube surrounded by 24 Micro-Channel Plate (MCP) photon detectors, each with an 8×8 anode totaling 1536 individual channels/pixels viewing the scintillator. It uses custom-made electronics modules which mount on top of the MCPs, making our detector compact and able to both distinguish different types of events and reject noise in real time. The detector is currently deployed and being tested at the National Institute of Standards and Technology (NIST) Center for Neutron Research (NCNR) nuclear reactor (20 MWth) in Gaithersburg, MD. A shield for further tests is being constructed, and calibration and upgrades are ongoing. The mTC's improved spatiotemporal resolution will allow for determination of incident particle directions beyond previous capabilities.
+We present the development of the miniTimeCube (mTC), a novel compact
+neutrino detector. The mTC is a multipurpose detector, aiming to detect
+not only neutrinos but also fast/thermal neutrons. Potential applications
+include the counterproliferation of nuclear materials and the investigation
+of antineutrino short-baseline effects. The mTC is a plastic 0.2% 10B - 
+doped scintillator (13 cm)3 cube surrounded by 24 Micro-Channel Plate (MCP)
+photon detectors, each with an 8×8 anode totaling 1536 individual channels
+/pixels viewing the scintillator. It uses custom-made electronics modules 
+which mount on top of the MCPs, making our detector compact and able to 
+both distinguish different types of events and reject noise in real time.
+The detector is currently deployed and being tested at the National 
+Institute of Standards and Technology (NIST) Center for Neutron Research
+(NCNR) nuclear reactor (20 MWth) in Gaithersburg, MD. A shield for 
+further tests is being constructed, and calibration and upgrades are 
+ongoing. The mTC's improved spatiotemporal resolution will allow for 
+determination of incident particle directions beyond previous capabilities.
 
 [Link](https://arxiv.org/abs/1602.01405)
 

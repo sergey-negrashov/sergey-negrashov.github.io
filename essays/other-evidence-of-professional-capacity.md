@@ -44,8 +44,4 @@ Worked with staff scientists and engineers at the National Institute of Standard
 ### Letters of reference
 
 1. [Philip Johnson]({{ site.baseurl }}/docs/philip_johnson.pdf): faculty UH Manoa ICS department.
-2. [Jason Leigh](): faculty UH Manoa ICS department.
-3. [John Learned](): faculty UH Manoa Physics department.
-4. [Peter Chamberlain](): faculty UH Manoa Art department.
-5. [Pieter Mumm](): staff scientist National Institute of Standard and Technology.
 
