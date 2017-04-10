@@ -12,7 +12,7 @@ labels:
 ## Literature Review:
 My literature review focuses on uses of compression and
 compressed sensing in bandwidth constrained sensor networks.
-[Link](http://csdl.ics.hawaii.edu/techreports/2016/16-02/16-02.pdf)
+[Link](http://csdl.ics.hawaii.edu/techreports/2017/17-02/17-02.pdf)
 
 ## Publications:
 
