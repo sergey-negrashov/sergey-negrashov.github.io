@@ -20,7 +20,9 @@ Proctored laboratory section of an introductory programing course. Created sever
 Proctored laboratory section of a computer architecture course.
 
 ### Research
+
 **Collaborative Software Development Laboratory - 4 years**
+
 Developed hardware and software for the [Open Power Quality project](http://openpowerquality.org/). Mentored undergraduate students from ICS, EE and CE departments through the [Virticaly Integrated Projects Consortium](https://sites.google.com/a/hawaii.edu/uh-vip/). My work focuses on data acquisition and transport in sensor networks. 
 
 **Instrument Development Laboratory - 1 semesters**  
