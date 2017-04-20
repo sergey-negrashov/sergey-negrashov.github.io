@@ -15,6 +15,13 @@ compressed sensing in bandwidth constrained sensor networks.
 [Link](http://csdl.ics.hawaii.edu/techreports/2017/17-02/17-02.pdf)
 
 ## Publications:
+### OPQ Version 2: An Architecture for Distributed, Real-Time, High Performance Power Data Acquisition, Analysis, and Visualization
+Anthony J. Christe, Sergey I. Negrashov, Philip M. Johnson, Dylan Nakahodo, David Badke, David Aghalarpour IEEE Cyber, Aug 2017.
+
+**Abstract**
+OpenPowerQuality (OPQ) is a framework that supports end-to-end capture, analysis, and visualizations of distributed real-time power quality (PQ) data. Version 2 of OPQ builds on version 1 by providing higher sampling rates, optional battery backup, end-to-end security, GPS synchronization, pluggable analysis, and a real-time visualization framework. OPQ provides real-time distributed power measurements which allows users to see both local PQ events and grid-wide PQ events. The OPQ project has three principal components: back-end hardware for making power measurements, middleware for data acquisition and analysis, and a front-end providing visualizations. OPQBox2 is a hardware platform that takes PQ measurements, provides onboard analysis, and securely transfers data to our middleware. The OPQ middleware performs filtering on the OPQBox2 sensor data and performs high-level PQ analysis. The results of our PQ analysis and real-time state of the sensor network are displayed using OPQView. We've collected distributed PQ data from locations across Oahu, Hawaii and have demonstrated our ability to detect both local and grid-wide power quality events.
+
+[Link](https://github.com/openpowerquality/ieee-cyber-2017/raw/master/ieee-cyber.pdf)
 
 ### OpenPowerQuality: An Open Source Framework for Power Quality Collection, Analysis, Visualization, and Privacy.
 A. Christe, S. Negrashov, P. Johnson. IEEE PES ISGT, Oct 2016.
