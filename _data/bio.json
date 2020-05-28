@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Sergey Negrashov",
-    "label": "Graduate Student",
+    "name": "Dr. Sergey Negrashov",
+    "label": "Applied Physicist/Software Engineer",
     "picture": "https://sergey-negrashov.github.io/images/serge.jpg",
     "email": "sin8@hawaii.edu",
     "phone": "(612)-616-7O96",
     "website": "https://sergey-negrashov.github.io",
-    "summary": "I am working on the PHD in Information and Computer Science at the University of Hawaii at Manoa. My research is in scalable IP sensor networks. I hope to graduate in 2017.",
+    "summary": "I am a Software Engineer with a lot of experience in precision measurement and high speed communication. I worked on a number of high energy physics experiments as well as defence projects. My doctorate degree was in the field of sensor networks and smart grids.",
     "location": {
       "address": "1680 E West Rd Honolulu, HI 96822  Room 329",
       "postalCode": "96822",
@@ -48,7 +48,7 @@
     "area": "Computer Science",
     "studyType": "PHD",
     "startDate": "2013-09-01",
-    "endDate": "Present",
+    "endDate": "2020-05-01",
     "gpa": "",
     "courses": []
   }, {

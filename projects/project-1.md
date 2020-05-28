@@ -5,7 +5,7 @@ published: true
 image: images/opq.jpg
 title: Open Power Quality
 permalink: projects/opq
-date: 2014
+date: 2020
 labels:
   - Sensor Network
   - Embedded Systems
@@ -18,8 +18,9 @@ summary: We aim to develop a power quality monitoring network and deploy it acro
 <figcaption>Power quality signal observed by an OPQBox2. OPQBox2 is plugged into the same outlet as a PC loading a video game.</figcaption>
 </figure>
 
-Open power quality project is a vertically integrated power quality monitoring ecosystem comprised of in-house designed power quality meters, aggregation software, analytics and visualization. Our aim is to enable utility users to monitor quality of electrical and pinpoint the origin of the power quality disturbances while preserving their privacy.Our metering equipment, data acquisition software, and analysis stack are in-house designed, which allows us to tailor it to any PQ measurement. The goal is to have a system flexible enough to perform small scale analysis, such as PQ site surveys, while maintaining scalability to deploy a state wide PQ monitoring system.  
+Open Power Quality was an academic project and an associated startup company aimed at studying power quality across the Hawaiian Islands. Hawaii is a perfect place to study emergent phenomena originating from the high concentration of renewable energy sources. With the highest penetration of solar in the country, along with aggressive legislative mandates to the move Hawaiian islands to renewable energy, the pressure is on to come up with a strategy of transitioning the state of Hawaii into a greener future. Open Power Quality project aimed at monitoring the power grid of the Island of Hawaii. We utilized in-house designed power quality meters along with custom cloud based software to capture anomalies in the power distribution system.
 
-For this project I am responsible for the design of the power quality meters from simulation PCB design to development of software. Furthermore I am responsible for the initial event identification as well as soft real-time analysis of the grid status. Finally I am in charge of undergraduate outreach and recruiting for the OPQ project. 
+In this project I was responsible for development of power quality sensors, writing the embedded software end firmware, managing the cloud-sensor communication as well as cloud based anomaly detection.  
 
-You can learn more at the [Open Power Quality Website](http://openpowerquality.org/).
+ 
+You can learn more from my [dissertation](https://github.com/sergey-negrashov/dissertation/releases/download/1.1/dissertation-snegrashov.pdf).
