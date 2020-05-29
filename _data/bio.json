@@ -86,7 +86,7 @@
     "startDate": "2018-05-01",
     "endDate": "Present",
     "summary": "Hardware/Software R&D for custom IR detectors.",
-    "highlights": ["Design and Development for ultra-fast midwave IR sensor.", "FPGA development to enable readout over 100G ethernet link. Software for capturing and processing ~1M packets per second.", "Lead software development across multiple subcontractors and staff.", "Field test management. Calibration procedures."]
+    "highlights": ["Design and Development for ultra-fast midwave IR sensor.", "Custom filesystem Development", "FPGA development to enable readout over 100G ethernet link.", "Software for capturing and processing ~1M packets per second.", "Image processing and visualisation.", "Lead software development across multiple subcontractors and staff.", "Field test management. Calibration procedures."]
   }, {
     "company": "UH Manoa Information and Computer Science",
     "position": "Teaching Assistant",
