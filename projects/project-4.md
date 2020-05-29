@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/motor1.jpg
-title: Things that go Wroom!
+title: Things that go Vroom!
 permalink: projects/Geiger
 date: 2020
 labels:
