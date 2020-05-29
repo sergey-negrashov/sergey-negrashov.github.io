@@ -25,8 +25,11 @@
     }]
   },
   "interests": [{
-    "name": "Power Quality",
-    "keywords": ["Open Power Quality"]
+    "name": "FPGA Design",
+    "keywords": []
+  }, {
+    "name": "Real Time Software",
+    "keywords": []
   }, {
     "name": "Particle Physics",
     "keywords": []
@@ -41,7 +44,7 @@
   }, {
     "name": "Toolsets/OS",
     "level": "",
-    "keywords": ["Linux", "XILINX", "Mentor Graphics Pads", "STM32", "Matlab"]
+    "keywords": ["Linux", "XILINX", "Mentor Graphics Pads", "STM32"]
   }],
   "education": [{
     "institution": "University of Hawaii, Honolulu, HI",
@@ -77,6 +80,22 @@
     "courses": []
   }],
   "work": [{
+    "company": "Oceanit",
+    "position": "Applied Physicist",
+    "website": "www.oceanit.com",
+    "startDate": "2018-05-01",
+    "endDate": "Present",
+    "summary": "Hardware/Software R&D for custom IR detectors.",
+    "highlights": ["Design and Development for ultra-fast midwave IR sensor.", "FPGA development to enable readout over 100G ethernet link. Software for capturing and processing ~1M packets per second.", "Lead software development across multiple subcontractors and staff.", "Field test management. Calibration procedures."]
+  }, {
+    "company": "UH Manoa Information and Computer Science",
+    "position": "Teaching Assistant",
+    "website": "",
+    "startDate": "2016-01-01",
+    "endDate": "2018-05-01",
+    "summary": "Teaching the lab section of ICS111 and ICS 331",
+    "highlights": ["Development of class curriculum.", "Academic evaluation"]
+  }, {
     "company": "UH Manoa Physics Department",
     "position": "Researcher",
     "website": "",
@@ -84,20 +103,12 @@
     "endDate": "2016-01-01",
     "summary": "Hardware R&D for a particle physics experement.",
     "highlights": ["Design and develop electronics for a ultaportable directional neutrino detector.", "Lead a team during the detector calibration and deployment at the NIST Center for Neutron Research Reactor.", "Developed FPGA firmware and Linux software for detector operation, and data analysis"]
-  }, {
-    "company": "UH Manoa Information and Computer Science",
-    "position": "Teaching Assistant",
-    "website": "",
-    "startDate": "2016-01-01",
-    "endDate": "Present",
-    "summary": "Teaching the lab section of ICS111 and ICS 331",
-    "highlights": ["Development of class curriculum.", "Academic evaluation"]
-  }, {
+  },{
     "company": "University of Hawaii graduate student organisation",
     "website": "http://gso.hawaii.edu/",
     "position": "Employment and Compensation Chair",
     "startDate": "2016-05-01",
-    "endDate": "Present",
+    "endDate": "2017-05-01",
     "summary": "Working with UH administration to improve the working conditions for UH graduate students.",
     "highlights": []
   } ],
@@ -106,17 +117,26 @@
     "website": "http://www.eyhhawaii.org/",
     "position": "Speaker",
     "startDate": "2015-01-01",
-    "endDate": "Present",
+    "endDate": "2017-01-01",
     "summary": "Teaching 6th-8th graders how to program in Javascript and Logo.",
     "highlights": []
   }, {
     "organization": "GSO Grants and Awards Committee",
     "position": "Grant Review",
     "startDate": "2016-05-01",
-    "endDate": "Present",
+    "endDate": "2019-05-01",
     "summary": "Graduate student funding and grant review.",
     "highlights": []
   }, {
+    "organization": "alohamask.org",
+    "website": "https://alohamask.org/",
+    "position": "Founder",
+    "startDate": "2020-04-01",
+    "endDate": "Present",
+    "summary": "Alohamask was a volunteer organisation aimed at alleviating the shortage of PPE in the state of Hawaii during the COVID-19 crisis. Using the industrial laser cutter at the University of Hawaii, I produced 10k precut masks, that were then sewen by our volunteers and distributed to hospitals and first responders.",
+    "highlights": []
+
+  },{
     "organization": "FCC Technician License ",
     "website": "",
     "position": "KM6EYA",

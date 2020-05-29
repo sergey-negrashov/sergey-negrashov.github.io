@@ -24,4 +24,4 @@ For this project I designed and built a cosmic ray telescope which operates base
 
 This device is built almost entirely out of discrete components, and all of the PCBs were milled on my CNC mill. The only components which contain integrated circuits are the wallwart PSU and an ESP8266 wifi enabled MCU. ESP8266 allowed me to debug operate the device without having to attach it to a computer. Next iteration will have 8 tubes on a CNC pivotable enclosure for better angular resolution.
 
-You can read about the development on my <a href="http://bitsandwires.hopto.org/tag/geiger/">blog</a>.
+You can read about the development on <a href="https://github.com/sergey-negrashov/muon-tube">github</a>.
